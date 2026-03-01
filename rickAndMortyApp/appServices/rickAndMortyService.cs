@@ -1,11 +1,11 @@
-﻿using _20251900163_Cristian_Medina_U2T1.models;
+﻿using _20251900163_Cristian_Medina_U2T1.rickAndMortyApp.models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http.Json;
 using System.Threading.Tasks;
 
-namespace _20251900163_Cristian_Medina_U2T1.appServices{
+namespace _20251900163_Cristian_Medina_U2T1.rickAndMortyApp.appServices{
     public class characterService{
         private readonly HttpClient _httpClient;
 

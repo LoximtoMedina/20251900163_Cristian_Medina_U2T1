@@ -1,7 +1,7 @@
-﻿using _20251900163_Cristian_Medina_U2T1.appServices;
-using _20251900163_Cristian_Medina_U2T1.models;
+﻿using _20251900163_Cristian_Medina_U2T1.rickAndMortyApp.models;
+using _20251900163_Cristian_Medina_U2T1.rickAndMortyApp.appServices;
 
-namespace _20251900163_Cristian_Medina_U2T1{
+namespace _20251900163_Cristian_Medina_U2T1.rickAndMortyApp{
     internal class Program{
         static async Task Main(string[] args){
 
